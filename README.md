@@ -39,3 +39,16 @@ Welcome to my repository 🙌
 <span><img src="https://img.shields.io/badge/ESLint-d0d7de?logo=eslint&logoColor=4B32C3" alt="ESLint logo" title="ESLint" height="25" /></span>&nbsp;
 <span><img src="https://img.shields.io/badge/SonarQube-d0d7de?logo=sonarqube&logoColor=4E9BCD" alt="Sonar Qube logo" title="SonarQube" height="25" /></span>&nbsp;
 <span><img src="https://img.shields.io/badge/SonarLint-d0d7de?logo=sonarlint&logoColor=CB2029" alt="SonarLint logo" title="SonarLint" height="25" /></span>&nbsp;
+
+<h2 align="center">🤝 CONNECT WITH ME 🤝</h2>
+<div align="center">
+  <a href="https://www.facebook.com/hdvuv" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="vuvdh-facebook" />
+  </a>
+  <a href="https://www.linkedin.com/in/hdvuv" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="vuvdh-linkedin" />
+  </a>
+  <a href="mailto:vuvdh.0308@gmail.com" target="top">
+    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="vuvdh-email" />
+  </a>
+</div>
